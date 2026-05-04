@@ -4,19 +4,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuththara849&label=Profile%20views&color=0e75b6&style=flat" alt="anuththara849" /> </p>
 
 - 🌱 I’m currently learning **HTML/PHP/JAVA/C# and figma tool, adobe photoshop**
+  
+- 🎯 Interested in **Web Development & UI/UX Design**
 
 - 📫 How to reach me **anuththaradevindi993@gmail.com**
 
 ### 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/in/anuththara-jayasinghe-282999359" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/c/@anupiustatus" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-</a>
+<p align="left" style="white-space: nowrap;">
+  <a href="https://linkedin.com/in/anuththara-jayasinghe-282999359" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" style="margin-right:10px;" />
+  </a>
+  
+  <a href="https://www.youtube.com/@anupiustatus" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" />
+  </a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
